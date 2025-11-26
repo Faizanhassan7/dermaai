@@ -1,0 +1,7 @@
+BCC
+BKL
+MEL
+NV
+Normal
+SCC
+UNK

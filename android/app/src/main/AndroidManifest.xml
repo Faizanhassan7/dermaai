@@ -1,6 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 👇 Add this line for Gemini / API requests -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
-        android:label="dermaai"
+        android:label="DermaAi"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
