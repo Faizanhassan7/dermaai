@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "764816137701",
+    "project_id": "dermaai-a8bda",
+    "storage_bucket": "dermaai-a8bda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764816137701:android:c1b9fd40f8afd72bfae30c",
+        "android_client_info": {
+          "package_name": "com.example.dermaai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764816137701-3ifs04t6iq09f0c5spebd0us342b8iee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dermaai",
+            "certificate_hash": "bf4481efb9cac59ecdd012fc2769e2b6cc97c839"
+          }
+        },
+        {
+          "client_id": "764816137701-5gupsvo7vvn0qjo1bf07r0nc55hjklfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5v36dFdvUePy3HovhfJihSTfIR_qsN2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764816137701-5gupsvo7vvn0qjo1bf07r0nc55hjklfj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764816137701-9cjhv47dmmqnv5i8ucdb161v0ol2p5cq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dermaai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
